@@ -1,17 +1,21 @@
+# Just wondering its effects.
+
 ## Start up
 
-Here [my email](kegang.liu@ieee.org) to maintain and preview the content for your website in Markdown files.
+Here is a place for formulating some of my ideas aidded by words and publicity. Hope it would be of some sort of utility.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Moving on from topology
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
+An object which has intriguing me for a long time.
 
 ```markdown
-Syntax highlighted code block
+Title of title?
 
-# Header 1
+# Rocording of some beautiful words
+
+Recently, there was announced a problem which while it certainly seemed to belong to geometry, was nevertheless so designed that it did not call for the determination of magnitude, nor could it be solved by quantitative calculation; consequently I did not hesitate to assign it to the geometry of position, especially since the solution required only the consideration of position, calculation being of no use.  
+---by **_Leonhard Euler_**
+
 ## Header 2
 ### Header 3
 
@@ -21,7 +25,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+No `Code` text?
 
 [Link](url) and ![Image](src)
 ```
