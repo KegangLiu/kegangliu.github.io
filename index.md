@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Kegang Liu
 
-You can use the [editor on GitHub](https://github.com/KegangLiu/kegangliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Start up
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a place for formulating some of my ideas aidded by words and publicity. Hope it would be of some sort of utility. 
 
-### Markdown
+## Moving on from topology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An object which has been intriguing me for a long time.
 
-```markdown
-Syntax highlighted code block
+### Rocording of some beautiful words
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KegangLiu/kegangliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Recently, there was announced a problem which while it certainly seemed to belong to geometry, was nevertheless so designed that it did not call for the determination of magnitude, nor could it be solved by quantitative calculation; consequently I did not hesitate to assign it to the geometry of position, especially since the solution required only the consideration of position, calculation being of no use.  
+---by **_Leonhard Euler_**
