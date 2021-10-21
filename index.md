@@ -1,10 +1,10 @@
 ## Start up
 
-Here is a place for formulating some of my ideas aidded by words and publicity. Hope it would be of some sort of utility.
+Here is a place for formulating some of my ideas aidded by words and publicity. Hope it would be of some sort of utility. (kegang.liu@ieee.org)
 
 ## Moving on from topology
 
-An object which has intriguing me for a long time.
+An object which has been intriguing me for a long time.
 
 ### Rocording of some beautiful words
 
