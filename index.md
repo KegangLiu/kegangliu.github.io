@@ -3,7 +3,7 @@ Here is a place for formulating some of my ideas aidded by words and publicity. 
 # About me
 
 ## Identity in physical world
-I'm researching
+I'm pursuing Ph.D. degree in physical electroncis in University of Chinese Academy of Sciences. Basically, the goal I'm approaching at this stage is the realization of terahertz vacuum electronic source. I have been
 
 ## Identity in my mental world 
 - An entiety of fool, who has been exploring deeply and building so-so many beautiful cognitions, without being capable of being harmonic with them. 
@@ -13,11 +13,9 @@ I'm researching
 ## Interests
 
 ### Invariance
-Invariance is autually the property or characteristics of enwhich remain changable s
-1. Topolygical invariance 
-
-### Objects which have been intriguing me for a long time
-Topological
+Invariance is autually the property or characteristics of entities, which remain unchangable. Such a notion is so ubiquitous, exemplified by physical laws assumed to be invariant, without any proving backing up.
+1. Topolygical invariance. Relaxing some existence like geometrical equiavalence, the topology explore more unchangeable/invariant property. That's the place of topology in my interior, namely controlling the degree of invariance with consiousness. It has a prospect on qualitive/exsitence analysis and notion of topological matter, like topological quantum matter where qubits susceptible to disturbance would remain invariant in the facet of information.
+2. Symmetry. Higher symmetry. The objects remain the same under some geometrical transformation.
 
 # Let it go
 
