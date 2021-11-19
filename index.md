@@ -6,7 +6,7 @@ Here is a place for formulating some of my ideas aidded by words and publicity. 
 Just an explorer trying to touch the real world with real dimensions, for this is one of the few meanings I can recognize, for having a high mental state and a high view. I'm satisfying with the situation I'm within.
 
 ## Identity in my mental world 
-- An entiety of fool, who has been exploring deeply and building so-so many beautiful cognitions, without being capable of being harmonic with them. 
+- An entierty of fool, who has been exploring deeply and building so-so many beautiful cognitions, without being capable of being harmonic with them. 
 - A loser with numerous failures, who hasn't even made mind to do something at all cost.
 - A fighter, never giving up and always accompanied and inspired by cognition.
 
