@@ -3,7 +3,7 @@ Here is a place for formulating some of my ideas aidded by words and publicity. 
 # About me
 
 ## Identity in physical world
-I'm pursuing Ph.D. degree in physical electroncis in University of Chinese Academy of Sciences. Basically, the goal I'm approaching at this stage is the realization of terahertz vacuum electronic source. 
+Just an exploerer trying to touch the real world with real dimensions, for this is one of the few meanings I can recognize, for having a high mental state and a high view. I'm satisfying with the situation I'm withi.
 
 ## Identity in my mental world 
 - An entiety of fool, who has been exploring deeply and building so-so many beautiful cognitions, without being capable of being harmonic with them. 
